@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/woyxtmyg3jiydig0?svg=true)](https://ci.appveyor.com/project/bataltsevV/patterns-task2)
 
 # Домашнее задание к занятию «2.3. Patterns»
 
